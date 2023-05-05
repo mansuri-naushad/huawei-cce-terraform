@@ -55,11 +55,11 @@ variable "scall_enable" {
 }
 
 variable "vpc_id" {
-  default = "will be apply"
+  default = ""
 }
 
 variable "subnet_id" {
-  default = "will be apply"
+  default = ""
 }
 
 
